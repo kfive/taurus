@@ -1,0 +1,9 @@
+
+jar {
+	baseName = 'taurus-tasker'
+	version = '0.1.0'
+}
+
+dependencies {
+	compile project(':taurus-common')
+}
